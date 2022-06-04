@@ -1,5 +1,10 @@
-# jokes
+# Jokes
+---
+Moderately funny jokes from <https://v2.jokeapi.dev/>. Thank you to them!
 
+This is just a small **Vue.js** project to learn. Nothing fancy yet.
+
+---
 ## Project setup
 ```
 npm install
